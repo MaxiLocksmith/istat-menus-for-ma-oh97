@@ -1,4 +1,4 @@
-
+Enhance iStat Menus for macOS with iStat Menus for macOS automatic Script - file-indexing and automated-tasks, the #1 script. Includes file-indexing and automated-tasks for a
 
 
 
